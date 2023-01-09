@@ -7,6 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'jalo, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print("hola mundo Prueba2")
 
 
 # Press the green button in the gutter to run the script.
